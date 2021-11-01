@@ -99,6 +99,6 @@
     "HEROKU_APP_NAME": {
       "description": "Your heroku app name",
       "required": true
-    },
+    }
   }
 }
