@@ -2,7 +2,7 @@
   "name": "ZeusMusic",
   "description": "Repo for telegram bot, can play songs on vcg. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/ZeusNetworks/ZeusMusic",
+  "repository": "https://github.com/Riswanmd16/ZeusMusic",
   "stack": "container",
   "logo": "https://telegra.ph/file/35e359d2f7b870b4d2dff.jpg",
   "buildpacks": [
